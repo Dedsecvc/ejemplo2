@@ -9,4 +9,6 @@ export class HomePage {
 
   constructor() {}
 
+  saludo:string="hola mundo 2";
+
 }
